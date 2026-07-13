@@ -10,7 +10,7 @@
 * 🛠️ Practicing core programming skills and building foundation.
 
 ### 🎯 Future Goals
-* 🎮 **Learn Lua** — to build game modes and scripts in Roblox.
+* 🎮 **Learn Luau** — to build game modes and scripts in Roblox.
 * 🛠️ Master software development to create my own profitable projects.
 * 💵 Earn my first $100 online through my code.
 
