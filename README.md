@@ -1,25 +1,23 @@
-# Hi, I'm Ivan 👋
+# Hi, I'm Ivan 💻
 
-🤖 **16-year-old developer** passionate about coding and building tech products. 
-🚀 I've already built up a solid daily streak of learning **JavaScript**, and I have no plans to stop anytime soon!
-
----
-
-### 🧠 Current Focus & Learning
-* 💻 **Deep diving into JavaScript** — my main priority and number one goal right now.
-* 🛠️ Practicing core programming skills and building foundation.
-
-### 🎯 Future Goals
-* 🎮 **Learn Luau** — to build game modes and scripts in Roblox.
-* 🛠️ Master software development to create my own profitable projects.
-* 💵 Earn my first $100 online through my code.
+I am a web developer focused on building modern, high-performance web applications. Currently deep-diving into Frontend technologies, UI/UX structure, and system logic.
 
 ---
 
-### 🛠️ Projects
-* 🚀 **JavaScript Learning Journey** — My daily progress, tasks, and scripts.
+### 🧠 Current Focus & Stack
+*   **Core Logic:** JavaScript, Algorithms, Async Programming
+*   **Web Foundations:** HTML5, CSS3, Semantic layout, Flexbox & Grid
+*   **Next Milestone:** React, TypeScript, Tailwind CSS
+
+### 🎯 Current Milestones
+*   [ ] Complete HTML/CSS UI foundations
+*   [ ] Build 2 interactive web applications with real API integrations
+*   [ ] Transition to React & TypeScript ecosystem
+
+### 🛠️ Featured Repositories
+*   **(https://github.com/Veryasov-Ivan/javascript-learning-journey)** — My daily log of custom algorithms, data structures, and logic scripts.
 
 ---
 
-### 🤝 Connect with me
-* ✈️ **Telegram:** @iveryasov
+### 📬 Connect with me
+*   **Telegram:** @iveryasov
