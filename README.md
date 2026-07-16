@@ -15,7 +15,7 @@ I am a web developer focused on building modern, high-performance web applicatio
 *   [ ] Transition to React & TypeScript ecosystem
 
 ### 🛠️ Featured Repositories
-*   **(https://github.com/Veryasov-Ivan/javascript-learning-journey)** — My daily log of custom algorithms, data structures, and logic scripts.
+*   **Veryasov-Ivan/javascript-learning** — My daily log of custom algorithms, data structures, and logic scripts.
 
 ---
 
