@@ -20,4 +20,4 @@ I am a web developer focused on building modern, high-performance web applicatio
 ---
 
 ### 📬 Connect with me
-*   **Telegram:** @iveryasov
+*   **Telegram:** @diez_de_diez
