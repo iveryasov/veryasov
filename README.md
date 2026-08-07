@@ -6,7 +6,7 @@ I am a web developer focused on building modern, high-performance web applicatio
 
 ### 🧠 Current Focus & Stack
 *   **Core Logic:** JavaScript, Algorithms, Async Programming
-*   **Web Foundations:** HTML5, CSS3, Semantic layout, Flexbox & Grid
+*   **Web Foundations:** HTML5, CSS3, Semantic layout, Flexbox
 *   **Next Milestone:** React, TypeScript, Tailwind CSS
 
 ### 🎯 Current Milestones
