@@ -1,23 +1,23 @@
 # Hi, I'm Ivan 💻
 
-I am a web developer focused on building modern, high-performance web applications. Currently deep-diving into Frontend technologies, UI/UX structure, and system logic.
+Frontend & Web Developer building clean, high-performance web applications. Focused on JavaScript architecture, DOM manipulation, and interactive dashboards.
+
+🔥 **Milestone:** 100+ consecutive days of daily GitHub code commits.
 
 ---
 
-### 🧠 Current Focus & Stack
-*   **Core Logic:** JavaScript, Algorithms, Async Programming
-*   **Web Foundations:** HTML5, CSS3, Semantic layout, Flexbox
-*   **Next Milestone:** React, TypeScript, Tailwind CSS
+### 🧠 Tech Stack & Skills
+*   **Core:** JavaScript (ES6+), DOM API, Async/Await, Fetch API, LocalStorage
+*   **Layout:** HTML5, CSS3, CSS Variables, Flexbox & Grid
+*   **Current Focus:** Building production-grade Vanilla JS applications, preparing for React & TypeScript
 
-### 🎯 Current Milestones
-*   [ ] Complete HTML/CSS UI foundations
-*   [ ] Build 2 interactive web applications with real API integrations
-*   [ ] Transition to React & TypeScript ecosystem
+---
 
-### 🛠️ Featured Repositories
-*   **Veryasov-Ivan/javascript-learning** — My daily log of custom algorithms, data structures, and logic scripts.
+### 🚀 Featured Projects
+*   **Interactive Dashboard** — A feature-packed single-page dashboard with dynamic order management, dark/light theme persistence, and analytics.
+*   **JavaScript Learning Journey** — 100 days archive of algorithms, data structures, and daily engineering challenges.
 
 ---
 
 ### 📬 Connect with me
-*   **Telegram:** @diez_de_diez
+*   **Telegram:** @iveryasov
